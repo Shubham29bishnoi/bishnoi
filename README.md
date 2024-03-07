@@ -1,2 +1,3 @@
-# bishnoi
-this is my first git repository
+# Bishnoi
+This is my first Git-repository.
+Author - Shubham Bishnoi
